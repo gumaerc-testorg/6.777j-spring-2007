@@ -4,8 +4,13 @@ description: 'Lecture slides on the thermal domain, Lumped-element modeling: sel
   of resistor, analyzing problems in space and 1/space, the DC steady state: the Poisson
   equation, finite-difference methods, Eigenfunction methods, transient response,
   finite-difference methods, and thermoelectricity.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/721ccd0994ba5018a27923f78857a7b8_07Lecture13.pdf
+file: /media/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/721ccd0994ba5018a27923f78857a7b8_07Lecture13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 07Lecture13.pdf
 uid: 721ccd09-94ba-5018-a279-23f78857a7b8

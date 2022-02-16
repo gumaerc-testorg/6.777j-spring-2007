@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture slides on the effects of residual stresses on structures, energy
   methods, elastic energy, principle of virtual work, variational methods, and Rayleigh-Ritz
   methods for resonant frequencies and extracting lumped-element masses for structures.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/eea8d9296ebd676d3f6d10133b6942d7_07lecture11.pdf
+file: /media/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/eea8d9296ebd676d3f6d10133b6942d7_07lecture11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 07lecture11.pdf
 uid: eea8d929-6ebd-676d-3f6d-10133b6942d7

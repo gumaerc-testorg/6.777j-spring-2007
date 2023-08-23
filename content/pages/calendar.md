@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: The calendar section provides an outline of lecture topics and the schedule
+  of lecture sessions, lecturers, and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 8abb7040-63b8-b5b9-5eb9-3e1cc7ccee66
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Lecture Outline

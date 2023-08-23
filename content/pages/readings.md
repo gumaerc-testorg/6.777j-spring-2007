@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the required textbook, supplementary
+  readings, and readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: f60e4fc8-96cd-8ee1-e16f-00b1b06de136
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The required textbook readings are listed by [session](#Readings_by_Session) below.

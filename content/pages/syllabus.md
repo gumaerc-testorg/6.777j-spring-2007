@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview and information on
+  goals, acknowledgment of contribution to the course, required work, grades, policy
+  on cooperation, and recommended citation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: a231cb7c-90e4-0bb4-1d8e-1fae853f8492
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

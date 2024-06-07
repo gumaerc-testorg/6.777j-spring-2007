@@ -4,6 +4,7 @@ description: Lecture slides on MEMS-based projection displays, reflection vs. di
   Texas Instruments DMD reflective display, Silicon Light Machines diffractive display,
   and DMD-based displays.
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/e1e919990fc6e5f1767457f403a926c1_07lecture23.pdf
+file_size: 366671
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

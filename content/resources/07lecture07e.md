@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on elements of semiconductor physics, semiconductor diodes
   and resistors, the MOSFET, the MOSFET inverter/amplifier, and op-amps.
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/6de08ad7d4ee670c283ce5ec0e6a653b_07lecture07e.pdf
+file_size: 583375
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'Lecture slides on design choices, MEMS actuators, sorting through 
   options, actuator characteristics, examples of actuators, and theoretical and practical
   limits: electrostatic, thermal, piezoelectric, magnetic.'
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/65d3a76aacbabdcd217a60421ded87f0_07lecture21.pdf
+file_size: 1650196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

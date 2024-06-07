@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on microfabrication for MEMS, etching, wafer bonding,
   surface micromachining, and process integration.
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/6f533cbf3074f26dad3b2e819442dfc5_07lecture03.pdf
+file_size: 1537003
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

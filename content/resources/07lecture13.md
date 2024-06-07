@@ -5,6 +5,7 @@ description: 'Lecture slides on the thermal domain, Lumped-element modeling: sel
   equation, finite-difference methods, Eigenfunction methods, transient response,
   finite-difference methods, and thermoelectricity.'
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/721ccd0994ba5018a27923f78857a7b8_07Lecture13.pdf
+file_size: 452344
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

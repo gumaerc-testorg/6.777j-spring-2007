@@ -4,6 +4,7 @@ description: Problem set on bending of an AFM cantilever, thermal stress induced
   curvature, circuit loading, leveraged bending with electrostatic actuation, and
   circuit representation of a lumped mechanical system.
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/b6c9292c8105249b43eb949202b6a4d8_ps3.pdf
+file_size: 100690
 file_type: application/pdf
 learning_resource_types:
 - Assignments

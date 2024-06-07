@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines for design projects. Provides information on the preliminary
   report, the Interim Report, final presentations, the final reports, and grading.
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/8522eeb4e5c078b08c1bf94ea5ca70a3_reportguidelines.pdf
+file_size: 85983
 file_type: application/pdf
 learning_resource_types:
 - Projects

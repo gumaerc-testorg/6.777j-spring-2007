@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to Problem Set 4.
 file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/c8e0cffeec9e8c476fe862b75965fc98_ps4_soln.pdf
+file_size: 327514
 file_type: application/pdf
 learning_resource_types:
 - Assignments

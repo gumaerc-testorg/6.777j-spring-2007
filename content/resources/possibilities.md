@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for the Treasure Hunt assignment.
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/36535a12970e4de4c0171a6779e43cdb_possibilities.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/36535a12970e4de4c0171a6779e43cdb_possibilities.pdf
 file_size: 17995
 file_type: application/pdf
 learning_resource_types:

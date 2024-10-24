@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on dynamics with MATLAB? and Simulink?, KOH etched diaphragm,
   crayon engineering, debugging and recreating a process and mask set for a pressure-sensing
   silicon diaphragm, and creating process and mask set for a DEP trap.
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/aab0d30a1ee9b33eefd94ff1cc1e0057_ps1.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/aab0d30a1ee9b33eefd94ff1cc1e0057_ps1.pdf
 file_size: 46463
 file_type: application/pdf
 learning_resource_types:

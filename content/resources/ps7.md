@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on designing a PID controller, and stability and capacitive
   loads and noise in a (vastly simplified) capacitive accelerometer.
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/31c133a61ca00646c5fcf7f9e3826370_ps7.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/31c133a61ca00646c5fcf7f9e3826370_ps7.pdf
 file_size: 139428
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on the thermal energy domain, dissipative processes, charging
   a capacitor through a resistor, the thermal energy domain, governing equations,
   equivalent-circuit elements, the electrothermal transducer, and modeling the bolometer.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/e188665ca7770e1adfb754abcc2ef05a_07lecture12.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/e188665ca7770e1adfb754abcc2ef05a_07lecture12.pdf
 file_size: 623179
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 6.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/16fe6eb8391c59ef13e12e8d2d1bbe27_prob6_11.m
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/16fe6eb8391c59ef13e12e8d2d1bbe27_prob6_11.m
 file_size: 860
 file_type: text/plain
 learning_resource_types:

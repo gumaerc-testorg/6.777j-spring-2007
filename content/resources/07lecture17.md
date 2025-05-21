@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on the motivation for using feedback, the uses of (linear)
   feedback, feedback on nonlinear systems, quasi-static systems, and oscillators.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/3a0e21e64ccf77d78acd5469406d7fc6_07lecture17.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/3a0e21e64ccf77d78acd5469406d7fc6_07lecture17.pdf
 file_size: 1020979
 file_type: application/pdf
 learning_resource_types:

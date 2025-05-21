@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on elements of circuit analysis.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/2869c3087b8604d32f8e855919c1bdbb_07lecture06e.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/2869c3087b8604d32f8e855919c1bdbb_07lecture06e.pdf
 file_size: 167902
 file_type: application/pdf
 learning_resource_types:

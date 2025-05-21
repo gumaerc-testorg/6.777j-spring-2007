@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to Problem Set 1.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/488964aa06f663ec803b296e835f0a3f_ps1_soln.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/488964aa06f663ec803b296e835f0a3f_ps1_soln.pdf
 file_size: 139994
 file_type: application/pdf
 learning_resource_types:

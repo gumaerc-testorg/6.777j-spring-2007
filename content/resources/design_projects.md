@@ -3,7 +3,7 @@ content_type: resource
 description: Sample design projects used in previous terms. The projects include a
   fast dielectrophoretic cell sorter, a piezoresistive sensor for biomolecular recognition,
   an RF-IF filter, and a micro flex-tester for measuring the compliance of microstructures.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/49da2e56dbc96934da311594734f36ca_design_projects.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/49da2e56dbc96934da311594734f36ca_design_projects.pdf
 file_size: 14296
 file_type: application/pdf
 learning_resource_types:

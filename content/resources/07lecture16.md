@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on mass transport in liquids, chemical potential, species
   conservation including convection, H-filter design and eigenfunction expansion,
   Taylor dispersion, the microfluidicist?s enemy, and mixing.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/3ef5264bd079b86f461cda47fcbd282e_07lecture16.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/3ef5264bd079b86f461cda47fcbd282e_07lecture16.pdf
 file_size: 1378810
 file_type: application/pdf
 learning_resource_types:

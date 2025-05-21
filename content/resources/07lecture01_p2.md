@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on microfabrication for MEMS, a way to think about process
   design, and surface and bulk micromachining concepts.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/ea072f8f990d2358adb06e6c6b3ddae4_07lecture01_p2.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/ea072f8f990d2358adb06e6c6b3ddae4_07lecture01_p2.pdf
 file_size: 368777
 file_type: application/pdf
 learning_resource_types:

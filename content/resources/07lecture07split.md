@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on structures, beam bending, loading and supports, bending
   moments and shear forces, curvature and the beam equation, cantilevers and doubly
   supported beams, and torsion and plates.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/80ed1dbb9e2320d5cf83f35ea55f51bf_07lecture07split.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/80ed1dbb9e2320d5cf83f35ea55f51bf_07lecture07split.pdf
 file_size: 323722
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: In-class design exercise to design a fabrication process flow and a package
   process to create an accelerometer.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/a4e57d4f571362739bd816f1a868c981_07lecture20_accl.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/a4e57d4f571362739bd816f1a868c981_07lecture20_accl.pdf
 file_size: 142880
 file_type: application/pdf
 learning_resource_types:

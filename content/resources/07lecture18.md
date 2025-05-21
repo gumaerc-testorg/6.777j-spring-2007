@@ -4,7 +4,7 @@ description: Lecture slides on where noise comes from, interference and how to d
   with it, noise definitions and characterization, types of noise, thermal noise,
   shot noise, flicker noise, electronics (diodes, amplifiers), resistance thermometer,
   and mdulation.
-file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/9976d4ab39b0e55c81f8eda5eb663f27_07lecture18.pdf
+file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/9976d4ab39b0e55c81f8eda5eb663f27_07lecture18.pdf
 file_size: 878002
 file_type: application/pdf
 learning_resource_types:

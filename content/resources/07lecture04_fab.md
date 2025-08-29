@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout for an in-class assignment on the process flow design of a thermal
   pneumatic actuator.
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/d84ef5748a3f798e0e64d70345a75fa8_07lecture04_fab.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/d84ef5748a3f798e0e64d70345a75fa8_07lecture04_fab.pdf
 file_size: 115513
 file_type: application/pdf
 learning_resource_types:

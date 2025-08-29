@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on calculating fluidic resistances, timescales in microfluidic
   flows, and microfluidic networks and fabrication variations.
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/255ce2a194bc7cb86f84b2ba3043479b_ps6.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/255ce2a194bc7cb86f84b2ba3043479b_ps6.pdf
 file_size: 134401
 file_type: application/pdf
 learning_resource_types:

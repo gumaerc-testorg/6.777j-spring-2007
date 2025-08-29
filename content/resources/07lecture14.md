@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture slides on microfluidics, basic concepts: viscosity and surface
   tension, governing equations, and incompressible laminar flow.'
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/fdc1ab6a552f0c6ddd4e0c382228d639_07lecture14.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/fdc1ab6a552f0c6ddd4e0c382228d639_07lecture14.pdf
 file_size: 458712
 file_type: application/pdf
 learning_resource_types:

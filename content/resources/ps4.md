@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on the in-plane interdigitated electrostatic (or comb drive)
   transducer, designing the spring, designing a simple switch, and a simple MEMS resonator.
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/8b0f410a439808222456bf311e4f1f88_ps4.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/8b0f410a439808222456bf311e4f1f88_ps4.pdf
 file_size: 139837
 file_type: application/pdf
 learning_resource_types:

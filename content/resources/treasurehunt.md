@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Worksheet for the Treasure Hunt assignment.
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/79b625ad7382c5a746e540b9f8a47796_treasurehunt.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/79b625ad7382c5a746e540b9f8a47796_treasurehunt.pdf
 file_size: 26925
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: 'Lecture slides on elasticity, some definitions, stress, strain, is
   materials, constitutive equations of linear elasticity, plane stress, thin films:
   residual and thermal stress, storing elastic energy, linear elasticity in anisotropic
   materials, behavior at large strains, and finding the stiffness of structures.'
-file: /courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/1654337d7c64fdb073b2ab3b4aac7688_07lecture06split.pdf
+file: /ol-ocw-studio-app/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/1654337d7c64fdb073b2ab3b4aac7688_07lecture06split.pdf
 file_size: 495489
 file_type: application/pdf
 learning_resource_types:
